@@ -6,12 +6,9 @@ title: KAO Leadership
 
 ### KAO Executives
 
-__Joey Treadway, President__  
-Senior, Air Traffic Control Major  
-Aircraft Dispatch Minor  
-KSU Student Lab Assistant   
-Private Pilot   
-[jtreadwa@kent.edu](mailto:jtreadwa@kent.edu)  
+__Erika Perko, President__  
+Sophomore, Air Traffic Control Major   
+[eperko@kent.edu](mailto:jtreadwa@kent.edu)  
 ![headshot](/assets/images/leadership/Joey.jpg) 
 
 __Zach Conrad, Vice President__  
