@@ -13,7 +13,7 @@ Sophomore, Air Traffic Control Major
 
 __Tyler Bliss, Vice President__  
 Sophomore, Air Traffic Control Major   
-[zconrad1@kent.edu](mailto:zconrad1@kent.edu)  
+[tbliss1@kent.edu](mailto:zconrad1@kent.edu)  
 ![headshot](/assets/images/leadership/ZC.jpg)
 
 __Doug Noonan, Clerk of Events__  
